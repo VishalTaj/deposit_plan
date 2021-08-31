@@ -1,5 +1,6 @@
 # Deposit Plan
 
+[![Build Status](https://app.travis-ci.com/VishalTaj/deposit_plan.svg?branch=master)](https://app.travis-ci.com/VishalTaj/deposit_plan)
 [![Run on Repl.it](https://repl.it/badge/github/VishalTaj/deposit_plan)](https://repl.it/github/VishalTaj/deposit_plan)
 
 ## Table of Contents
