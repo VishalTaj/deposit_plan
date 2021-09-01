@@ -111,12 +111,15 @@ Customer:
 Portfolio:
     - reference_code: customer_reference_code
     - name: string
+    - balance: float
+    - target_amount: float
+    - target_achieved: boolean
 ```
 
 ```
 DepositPlan:
     - reference_code: customer_reference_code
-    - portfolios: [Portfolio]
+    - portfolios: [{portfolio: Portfolio, amount: float}]
     - recurring: boolean, default: false
 ```
 
